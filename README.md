@@ -276,34 +276,9 @@ flutter build appbundle --release
 flutter build ios --release
 ```
 
-## 📝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-For support and questions:
-- Email: support@iitabbest.org
-- Website: [https://www.iitabbest.org](https://www.iitabbest.org)
-- GitHub Issues: Create an issue in this repository
-
-## 🙏 Acknowledgments
-
-- **IITA BBEST Team** for project requirements and guidance
-- **Flutter Community** for excellent documentation and packages
-- **Firebase Team** for robust backend services
-- **Agricultural community** in target regions for inspiring this solution
-
 ---
 
-**Built with ❤️ for sustainable agriculture and farmer empowerment**
-
-*Empowering Farmers • Building Communities • Sustainable Agriculture*
