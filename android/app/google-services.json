@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649787522335",
+    "project_id": "iita-bbest-app",
+    "storage_bucket": "iita-bbest-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649787522335:android:6b18c1fd82b6a20fb8842a",
+        "android_client_info": {
+          "package_name": "com.example.iita_bbest_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQRdNqVFIwUVmELJK7T3ObHXUUg5ImUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
